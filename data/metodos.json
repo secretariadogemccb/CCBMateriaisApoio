@@ -1,0 +1,208 @@
+{
+  "versao": 1,
+  "metodos": [
+    {
+      "id": "clarinete-giampieri-parte-1-pdf",
+      "instrumento": "Clarinete",
+      "titulo": "Giampieri - parte 1",
+      "arquivo": "pdfs/clarinete-giampieri-parte-1.pdf",
+      "tamanhoBytes": 5534774
+    },
+    {
+      "id": "clarinete-giampieri-parte-2-pdf",
+      "instrumento": "Clarinete",
+      "titulo": "Giampieri - parte 2",
+      "arquivo": "pdfs/clarinete-giampieri-parte-2.pdf",
+      "tamanhoBytes": 6713378
+    },
+    {
+      "id": "clarinete-pdfcoffee-com-domingos-pecci-para-clarinete-3-pdf-free-pdf",
+      "instrumento": "Clarinete",
+      "titulo": "Domingos Pecci — Clarinete 3",
+      "arquivo": "pdfs/clarinete-pdfcoffee-com-domingos-pecci-para-clarinete-3-pdf-free.pdf",
+      "tamanhoBytes": 10953771
+    },
+    {
+      "id": "clarone-giampieri-parte-1-pdf",
+      "instrumento": "Clarone",
+      "titulo": "Giampieri - parte 1",
+      "arquivo": "pdfs/clarinete-giampieri-parte-1.pdf",
+      "tamanhoBytes": 5534774
+    },
+    {
+      "id": "clarone-giampieri-parte-2-pdf",
+      "instrumento": "Clarone",
+      "titulo": "Giampieri - parte 2",
+      "arquivo": "pdfs/clarinete-giampieri-parte-2.pdf",
+      "tamanhoBytes": 6713378
+    },
+    {
+      "id": "clarone-pdfcoffee-com-domingos-pecci-para-clarinete-3-pdf-free-pdf",
+      "instrumento": "Clarone",
+      "titulo": "Domingos Pecci — Clarinete 3",
+      "arquivo": "pdfs/clarinete-pdfcoffee-com-domingos-pecci-para-clarinete-3-pdf-free.pdf",
+      "tamanhoBytes": 10953771
+    },
+    {
+      "id": "eufonio-almeida-dias-tubas-eufonios-e-trombones-pdf",
+      "instrumento": "Eufônio",
+      "titulo": "Almeida Dias - Tubas, Eufônios e Trombones",
+      "arquivo": "pdfs/eufonio-almeida-dias-tubas-eufonios-e-trombones.pdf",
+      "tamanhoBytes": 8905084
+    },
+    {
+      "id": "eufonio-pdfcoffee-com-rubank-trombone-elementary-method-complete-pdf-free-pdf",
+      "instrumento": "Eufônio",
+      "titulo": "Rubank — Método elementar para trombone",
+      "arquivo": "pdfs/eufonio-pdfcoffee-com-rubank-trombone-elementary-method-complete-pdf-free.pdf",
+      "tamanhoBytes": 2404011
+    },
+    {
+      "id": "flauta-2-1-pares-pdf",
+      "instrumento": "Flauta",
+      "titulo": "2.1 Pares",
+      "arquivo": "pdfs/flauta-2-1-pares.pdf",
+      "tamanhoBytes": 3984365
+    },
+    {
+      "id": "flauta-galli-flautas-pdf",
+      "instrumento": "Flauta",
+      "titulo": "Galli Flautas",
+      "arquivo": "pdfs/flauta-galli-flautas.pdf",
+      "tamanhoBytes": 21351001
+    },
+    {
+      "id": "oboe-oboe-giampieri-pdf",
+      "instrumento": "Oboé",
+      "titulo": "OBOÉ GIAMPIERI",
+      "arquivo": "pdfs/oboe-oboe-giampieri.pdf",
+      "tamanhoBytes": 4620393
+    },
+    {
+      "id": "saxofone-almeida-dias-saxofone-pdf",
+      "instrumento": "Saxofone",
+      "titulo": "Almeida Dias - Saxofone",
+      "arquivo": "pdfs/saxofone-almeida-dias-saxofone.pdf",
+      "tamanhoBytes": 69180904
+    },
+    {
+      "id": "saxofone-amadeu-russo-pdf",
+      "instrumento": "Saxofone",
+      "titulo": "Amadeu-russo",
+      "arquivo": "pdfs/saxofone-amadeu-russo.pdf",
+      "tamanhoBytes": 9151279
+    },
+    {
+      "id": "trombone-almeida-dias-tubas-eufonios-e-trombones-copia-pdf",
+      "instrumento": "Trombone",
+      "titulo": "Almeida Dias - Tubas, Eufônios e Trombones",
+      "arquivo": "pdfs/eufonio-almeida-dias-tubas-eufonios-e-trombones.pdf",
+      "tamanhoBytes": 8905084
+    },
+    {
+      "id": "trombone-pdfcoffee-com-rubank-trombone-elementary-method-complete-pdf-free-copia-pdf",
+      "instrumento": "Trombone",
+      "titulo": "Rubank — Método elementar para trombone",
+      "arquivo": "pdfs/eufonio-pdfcoffee-com-rubank-trombone-elementary-method-complete-pdf-free.pdf",
+      "tamanhoBytes": 2404011
+    },
+    {
+      "id": "trompa-pdfcoffee-com-65287538-rubank-trompapdf-pdf-free-pdf",
+      "instrumento": "Trompa",
+      "titulo": "Rubank — Método para trompa",
+      "arquivo": "pdfs/trompa-pdfcoffee-com-65287538-rubank-trompapdf-pdf-free.pdf",
+      "tamanhoBytes": 1743038
+    },
+    {
+      "id": "trompete-almeida-dias-pdf",
+      "instrumento": "Trompete",
+      "titulo": "Almeida dias",
+      "arquivo": "pdfs/trompete-almeida-dias.pdf",
+      "tamanhoBytes": 41007432
+    },
+    {
+      "id": "trompete-amadeu-russo-pdf",
+      "instrumento": "Trompete",
+      "titulo": "Amadeu russo",
+      "arquivo": "pdfs/trompete-amadeu-russo.pdf",
+      "tamanhoBytes": 7507689
+    },
+    {
+      "id": "trompete-rubenk-elementary-pdf",
+      "instrumento": "Trompete",
+      "titulo": "Rubank elementary",
+      "arquivo": "pdfs/trompete-rubenk-elementary.pdf",
+      "tamanhoBytes": 7810294
+    },
+    {
+      "id": "tubas-almeida-dias-pdf",
+      "instrumento": "Tubas",
+      "titulo": "Almeida Dias",
+      "arquivo": "pdfs/tubas-almeida-dias.pdf",
+      "tamanhoBytes": 35754122
+    },
+    {
+      "id": "tubas-rubenk-pdf",
+      "instrumento": "Tubas",
+      "titulo": "Rubank",
+      "arquivo": "pdfs/tubas-rubenk.pdf",
+      "tamanhoBytes": 2885067
+    },
+    {
+      "id": "viola-facilitado-vol-1-2-pdf",
+      "instrumento": "Viola",
+      "titulo": "Facilitado vol 1,2",
+      "arquivo": "pdfs/viola-facilitado-vol-1-2.pdf",
+      "tamanhoBytes": 27704328
+    },
+    {
+      "id": "viola-viola-pdf",
+      "instrumento": "Viola",
+      "titulo": "Viola",
+      "arquivo": "pdfs/viola-viola.pdf",
+      "tamanhoBytes": 6396296
+    },
+    {
+      "id": "violino-a-schull-pdf",
+      "instrumento": "Violino",
+      "titulo": "A schull",
+      "arquivo": "pdfs/violino-a-schull.pdf",
+      "tamanhoBytes": 17017443
+    },
+    {
+      "id": "violino-metodo-facilitado-pdf",
+      "instrumento": "Violino",
+      "titulo": "Método facilitado",
+      "arquivo": "pdfs/violino-metodo-facilitado.pdf",
+      "tamanhoBytes": 11031390
+    },
+    {
+      "id": "violino-nicolas-laoureux-1-pdf",
+      "instrumento": "Violino",
+      "titulo": "Nicolas Laoureux 1",
+      "arquivo": "pdfs/violino-nicolas-laoureux-1.pdf",
+      "tamanhoBytes": 4945728
+    },
+    {
+      "id": "violino-nicolas-laourex-3-pdf",
+      "instrumento": "Violino",
+      "titulo": "Nicolas Laoureux 3",
+      "arquivo": "pdfs/violino-nicolas-laourex-3.pdf",
+      "tamanhoBytes": 2905569
+    },
+    {
+      "id": "violoncello-dotzamer-vol-1-pdf",
+      "instrumento": "Violoncello",
+      "titulo": "Dotzauer — Volume 1",
+      "arquivo": "pdfs/violoncello-dotzamer-vol-1.pdf",
+      "tamanhoBytes": 16678551
+    },
+    {
+      "id": "violoncello-doutzair-2-pdf",
+      "instrumento": "Violoncello",
+      "titulo": "Dotzauer — Volume 2",
+      "arquivo": "pdfs/violoncello-doutzair-2.pdf",
+      "tamanhoBytes": 13752476
+    }
+  ]
+}

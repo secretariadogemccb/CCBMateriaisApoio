@@ -1,0 +1,33 @@
+{
+  "versao": 1,
+  "cartas": [
+    {
+      "id": "culto-oficial",
+      "categoria": "culto-oficial",
+      "titulo": "Carta - Pedido para Culto Oficial (músico)",
+      "arquivo": "pdfs/cartas/culto-oficial.pdf",
+      "tamanhoBytes": 170076
+    },
+    {
+      "id": "oficializacao",
+      "categoria": "oficializacao",
+      "titulo": "Carta - Pedido para Oficialização (músico)",
+      "arquivo": "pdfs/cartas/oficializacao.pdf",
+      "tamanhoBytes": 170621
+    },
+    {
+      "id": "troca-instrumento",
+      "categoria": "troca-instrumento",
+      "titulo": "Carta para Troca de Instrumento",
+      "arquivo": "pdfs/cartas/troca-instrumento.pdf",
+      "tamanhoBytes": 184916
+    },
+    {
+      "id": "avaliacao-organista",
+      "categoria": "avaliacao-organista",
+      "titulo": "Carta - Pedido para Avaliação (Organista)",
+      "arquivo": "pdfs/cartas/avaliacao-organista.pdf",
+      "tamanhoBytes": 170372
+    }
+  ]
+}
